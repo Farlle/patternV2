@@ -7,7 +7,7 @@ public class EmailNotification implements Notification {
 
     public EmailNotification(Client client){
         this.client = client;
-        notification();
+        notifyy();
     }
 
     @Override

@@ -8,7 +8,7 @@ public class SmsAndEmailNotification implements Notification {
 
     public SmsAndEmailNotification(Client client) {
         this.client = client;
-        notification();
+        notifyy();
     }
 
     @Override
